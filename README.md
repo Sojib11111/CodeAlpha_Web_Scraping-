@@ -61,8 +61,7 @@ The following visualizations were created:
 - Bar chart of top states with most bank failures
 - Line chart of yearly bank failures
 - Bar chart of top acquiring institutions
-- Histogram of fund loss distribution
-- Heatmap for missing values
+
 
 ---
 
